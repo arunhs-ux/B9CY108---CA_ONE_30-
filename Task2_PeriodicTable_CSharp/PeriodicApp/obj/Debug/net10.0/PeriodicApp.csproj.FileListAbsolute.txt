@@ -1,0 +1,14 @@
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/bin/Debug/net10.0/PeriodicApp
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/bin/Debug/net10.0/PeriodicApp.deps.json
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/bin/Debug/net10.0/PeriodicApp.runtimeconfig.json
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/bin/Debug/net10.0/PeriodicApp.dll
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/bin/Debug/net10.0/PeriodicApp.pdb
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.AssemblyInfoInputs.cache
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.AssemblyInfo.cs
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.csproj.CoreCompileInputs.cache
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.dll
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/refint/PeriodicApp.dll
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.pdb
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/PeriodicApp.genruntimeconfig.cache
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task2_PeriodicTable_CSharp/PeriodicApp/obj/Debug/net10.0/ref/PeriodicApp.dll

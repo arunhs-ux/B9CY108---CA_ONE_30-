@@ -1,0 +1,14 @@
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/bin/Debug/net10.0/ChurrosApp
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/bin/Debug/net10.0/ChurrosApp.deps.json
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/bin/Debug/net10.0/ChurrosApp.runtimeconfig.json
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/bin/Debug/net10.0/ChurrosApp.dll
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/bin/Debug/net10.0/ChurrosApp.pdb
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.AssemblyInfoInputs.cache
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.AssemblyInfo.cs
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.csproj.CoreCompileInputs.cache
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.dll
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/refint/ChurrosApp.dll
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.pdb
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ChurrosApp.genruntimeconfig.cache
+/Users/chandulavu/Downloads/B9CY108_Assignment/Task1_Churros_CSharp/ChurrosApp/obj/Debug/net10.0/ref/ChurrosApp.dll
